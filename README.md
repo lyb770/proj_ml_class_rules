@@ -1,4 +1,4 @@
-# Classification rules for the COVID-19 dataset
+# The rules of survival
 ## Mini-project
 
 For this project you are asked to implement the *PRISM* algorithm to extract the classification rules with the highest accuracy and coverage from the hospital patients [dataset](https://drive.google.com/file/d/1uVd09ekR1ArLrA8qN-Xtu4l-FFbmetVy/view?usp=sharing) described in this [demo notebook](rules_motivation.ipynb).
